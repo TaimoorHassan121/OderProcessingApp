@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\OderProcessingApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB7DDDA-67AA-4B83-8D91-C7034B74E2CB}|OderProcessingApp\\OderProcessingApp.csproj|d:\\oderprocessingapp\\oderprocessingapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB7DDDA-67AA-4B83-8D91-C7034B74E2CB}|OderProcessingApp\\OderProcessingApp.csproj|solutionrelative:oderprocessingapp\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB7DDDA-67AA-4B83-8D91-C7034B74E2CB}|OderProcessingApp\\OderProcessingApp.csproj|d:\\oderprocessingapp\\oderprocessingapp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB7DDDA-67AA-4B83-8D91-C7034B74E2CB}|OderProcessingApp\\OderProcessingApp.csproj|solutionrelative:oderprocessingapp\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB7DDDA-67AA-4B83-8D91-C7034B74E2CB}|OderProcessingApp\\OderProcessingApp.csproj|d:\\oderprocessingapp\\oderprocessingapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5AB7DDDA-67AA-4B83-8D91-C7034B74E2CB}|OderProcessingApp\\OderProcessingApp.csproj|solutionrelative:oderprocessingapp\\views\\orders\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB7DDDA-67AA-4B83-8D91-C7034B74E2CB}|OderProcessingApp\\OderProcessingApp.csproj|d:\\oderprocessingapp\\oderprocessingapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB7DDDA-67AA-4B83-8D91-C7034B74E2CB}|OderProcessingApp\\OderProcessingApp.csproj|solutionrelative:oderprocessingapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OderProcessingApp\\OderProcessingApp\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "OderProcessingApp\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\OderProcessingApp\\OderProcessingApp\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "OderProcessingApp\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T10:22:07.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\OderProcessingApp\\OderProcessingApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OderProcessingApp\\Models\\Order.cs",
+              "ToolTip": "D:\\OderProcessingApp\\OderProcessingApp\\Models\\Order.cs",
+              "RelativeToolTip": "OderProcessingApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:04:49.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OderProcessingApp\\OderProcessingApp\\Views\\Orders\\Create.cshtml",
+              "RelativeDocumentMoniker": "OderProcessingApp\\Views\\Orders\\Create.cshtml",
+              "ToolTip": "D:\\OderProcessingApp\\OderProcessingApp\\Views\\Orders\\Create.cshtml",
+              "RelativeToolTip": "OderProcessingApp\\Views\\Orders\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T10:01:08.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\OderProcessingApp\\OderProcessingApp\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OderProcessingApp\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\OderProcessingApp\\OderProcessingApp\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OderProcessingApp\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwGgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:56:28.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
