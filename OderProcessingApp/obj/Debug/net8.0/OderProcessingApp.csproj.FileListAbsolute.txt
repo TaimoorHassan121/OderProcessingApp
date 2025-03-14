@@ -566,3 +566,10 @@ D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\refs\WindowsBase.dll
 D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 D:\OderProcessingApp\OderProcessingApp\obj\Debug\net8.0\OderProcessingApp.MvcApplicationPartsAssemblyInfo.cs
+D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\Castle.Core.dll
+D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\Moq.dll
+D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\Moq.EntityFrameworkCore.dll
+D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\xunit.abstractions.dll
+D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\xunit.assert.dll
+D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\xunit.core.dll
+D:\OderProcessingApp\OderProcessingApp\bin\Debug\net8.0\xunit.execution.dotnet.dll
